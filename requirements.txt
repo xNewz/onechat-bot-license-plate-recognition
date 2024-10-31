@@ -1,3 +1,3 @@
 Flask==3.0.2
-one-chat-api==0.2.6
+one-chat-api==0.2.13
 requests==2.31.0
